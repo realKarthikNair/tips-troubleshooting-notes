@@ -1,0 +1,3 @@
+- Open cmd as administrator in a logged in admin account
+- Enter ```net user "$USER" *``` where $USER is the username
+- Windows password can be changed without entering old/current password
