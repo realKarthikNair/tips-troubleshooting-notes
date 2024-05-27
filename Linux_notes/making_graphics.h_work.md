@@ -90,3 +90,4 @@ Download the rpm package from [here](https://sdl-bgi.sourceforge.io/#:~:text=com
      ```bash
       gcc -o program program0.c -lSDL_bgi -lSDL2
       ```
+
